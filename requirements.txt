@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+streamlit==1.29.0
+openai
+pinecone-client
+tiktoken

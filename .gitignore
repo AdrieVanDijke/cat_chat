@@ -1,0 +1,5 @@
+.env
+.streamlit/secrets.toml
+a3d/a3dcontrolerBackup.py
+__pycache__/
+venv/
