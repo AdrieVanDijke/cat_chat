@@ -1,2 +1,1 @@
-# cat_chat
-CAT chat app met fine-tune model
+Simpele One shot app om getraind (fine-tuned) Model te testen.

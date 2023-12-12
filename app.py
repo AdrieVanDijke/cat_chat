@@ -17,7 +17,7 @@ def get_model(input_text):
     Verzin nooit zo maar een url, namen of andere informatie die niet direct uit de trainingsdata gehaald kunnen worden. Antwoord nooit met een vraag.
     Als er gevraangd wordt naar opleidingen antwoorde dan met de volgende link: https://gatregisteropleidingen.nl/opleiding-scholing-zoeken/"""
     completion = client.chat.completions.create(       
-        model="ft:gpt-3.5-turbo-1106:personal::8UbGz3DV",
+        model="ft:gpt-3.5-turbo-1106:personal::8UbvMZwR",
         temperature=0.0,
         max_tokens=1200,
         messages=[
